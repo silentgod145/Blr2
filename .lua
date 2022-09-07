@@ -1,3 +1,4 @@
+local NotifyLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/vKhonshu/intro/main/ui"))()
 NotifyLib.prompt('Tier - NotifyLib is MoonGods not ours', 'loading...', 5)
    NotifyLib.prompt('Tier - NotifyLib is MoonGods not ours','loading...',4)
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
